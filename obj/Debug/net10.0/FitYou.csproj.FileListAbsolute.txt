@@ -26,3 +26,11 @@
 /Users/hadriendony/Desktop/SoftwareDev/minimal-api/FitYou/obj/Debug/net10.0/FitYou.pdb
 /Users/hadriendony/Desktop/SoftwareDev/minimal-api/FitYou/obj/Debug/net10.0/FitYou.genruntimeconfig.cache
 /Users/hadriendony/Desktop/SoftwareDev/minimal-api/FitYou/obj/Debug/net10.0/ref/FitYou.dll
+/Users/hadriendony/Desktop/SoftwareDev/minimal-api/FitYou/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/hadriendony/Desktop/SoftwareDev/minimal-api/FitYou/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/hadriendony/Desktop/SoftwareDev/minimal-api/FitYou/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/hadriendony/Desktop/SoftwareDev/minimal-api/FitYou/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/hadriendony/Desktop/SoftwareDev/minimal-api/FitYou/obj/Debug/net10.0/FitYou.csproj.AssemblyReference.cache
+/Users/hadriendony/Desktop/SoftwareDev/minimal-api/FitYou/obj/Debug/net10.0/FitYou.MvcApplicationPartsAssemblyInfo.cs
+/Users/hadriendony/Desktop/SoftwareDev/minimal-api/FitYou/obj/Debug/net10.0/FitYou.sourcelink.json
+/Users/hadriendony/Desktop/SoftwareDev/minimal-api/FitYou/obj/Debug/net10.0/FitYou.csproj.Up2Date
