@@ -21,7 +21,7 @@ public class ExerciseService
         var exercise = new Exercise
         {
             Name = request.Name,
-            BodayArea = request.BodayArea
+            BodayArea = request.BodyArea
         };
         //2.Add to DbContext
         _dbContext.Exercises.Add(exercise);
